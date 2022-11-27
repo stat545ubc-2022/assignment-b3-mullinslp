@@ -11,10 +11,10 @@ The modified app contains several useful features that make the user interface m
 + Feature #3: The output table has been made interactive. This means that individuals can search key words (related to products), examine the query hits easier, and see the total number of results.
 
 ## What's inside folder Assignment B3?
-+the app.R file contains the raw code which was used to add features to this Shiny app
-+bcl-data.csv contains the exported BC Liquor data used in the app
-+the rsconnect folder holds the  files to running and deploy the app
-+the www folder is where the two app images are stored
++ the app.R file contains the raw code which was used to add features to this Shiny app
++ bcl-data.csv contains the exported BC Liquor data used in the app
++ the rsconnect folder holds the  files to running and deploy the app
++ the www folder is where the two app images are stored
 
 ## Acknowledgement
 Dean Attali initially developed this app using public data from BC Liquor. This data can be found [here](https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv). Dean Attali's GitHub profile is linked [here](https://github.com/daattali).
