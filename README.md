@@ -2,7 +2,7 @@
 # STAT545B: Assignments B3 + B4 by Liam Mullins
 
 ## Overview
-This resporitory was created by Liam Mullins to hold information related to Assignments B3 and B4 for STAT 545B at the University of British Columbia. 
+This resporitory was created by Liam Mullins to hold information related to Assignments B3 and B4 for STAT 545B at the University of British Columbia. This README.md file contains an overview of the repository purpose and contents. 
 
 Liam chose to complete *option A* for *Assignment B3*, adding features to an already exisiting *BC Liquor Shiny App by Dean Attali*. Liam's modified version of this app can be accessed through the following [link](http://mullinsl.shinyapps.io/BCLIQUOR_VersionLiam_STAT545)
 
