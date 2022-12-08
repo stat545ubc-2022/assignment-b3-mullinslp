@@ -6,7 +6,7 @@ This resporitory was created by Liam Mullins to hold information related to Assi
 
 Liam chose to complete *option A* for *Assignment B3*, adding features to an already exisiting *BC Liquor Shiny App by Dean Attali*. Liam's modified version of this app can be accessed through the following [link](http://mullinsl.shinyapps.io/BCLIQUOR_VersionLiam_STAT545)
 
-Liam chose to complete *option C* for *Assignment B*, adding additional features to the Shiny App he edited for Assignment B3. Liam's edited version of this app can be accessed through the following [link] (https://mullinsl.shinyapps.io/BCLIQUOR_Version2_Liam_STAT545/)
+Liam chose to complete *option C* for *Assignment B*, adding additional features to the Shiny App he edited for Assignment B3. Liam's edited version of this app can be accessed through the following [link](https://mullinsl.shinyapps.io/BCLIQUOR_Version2_Liam_STAT545/)
 
 ## Describing the most recent version of Liam's modified app (*Assignment B4*)
 The modified app contains several useful features that make the user interface more helpful to access, including:
